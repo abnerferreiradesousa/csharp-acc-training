@@ -1,0 +1,15 @@
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/bin/Debug/net6.0/mytests
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/bin/Debug/net6.0/mytests.deps.json
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/bin/Debug/net6.0/mytests.runtimeconfig.json
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/bin/Debug/net6.0/mytests.dll
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/bin/Debug/net6.0/mytests.pdb
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.csproj.AssemblyReference.cache
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.AssemblyInfoInputs.cache
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.AssemblyInfo.cs
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.csproj.CoreCompileInputs.cache
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.dll
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/refint/mytests.dll
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.pdb
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/mytests.genruntimeconfig.cache
+/home/ubuntu/csharp-acc-training/dia-3-types-csharp/mytests/obj/Debug/net6.0/ref/mytests.dll
