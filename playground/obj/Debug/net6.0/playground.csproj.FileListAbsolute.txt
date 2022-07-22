@@ -1,0 +1,15 @@
+/home/ubuntu/csharp-acc-training/playground/bin/Debug/net6.0/playground
+/home/ubuntu/csharp-acc-training/playground/bin/Debug/net6.0/playground.deps.json
+/home/ubuntu/csharp-acc-training/playground/bin/Debug/net6.0/playground.runtimeconfig.json
+/home/ubuntu/csharp-acc-training/playground/bin/Debug/net6.0/playground.dll
+/home/ubuntu/csharp-acc-training/playground/bin/Debug/net6.0/playground.pdb
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.csproj.AssemblyReference.cache
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.AssemblyInfoInputs.cache
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.AssemblyInfo.cs
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.csproj.CoreCompileInputs.cache
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.dll
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/refint/playground.dll
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.pdb
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/playground.genruntimeconfig.cache
+/home/ubuntu/csharp-acc-training/playground/obj/Debug/net6.0/ref/playground.dll
