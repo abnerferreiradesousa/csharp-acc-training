@@ -1,19 +1,37 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-
+using System.Globalization;
 public class Playground {
   public static void Main () 
   {
-    long number = 85990526057;
-    string fmt = "(00) 00000-0000";
-    Console.WriteLine(number.ToString(fmt));
+    long someLongNumber = 346;
+    int intNumber = Convert.ToInt32(someLongNumber);
+
+    // int intNumber = (int) someLongNumber;
+
+    Console.WriteLine("Teste de hoje " + intNumber);
+
   }
 
-  public void playWithDates () {
+  public static void PlayWithDates () {
     string customFormat = "MMMM dd, yyyy (dddd)";
     DateTime date1 = new DateTime(2009, 8, 15);
     Console.WriteLine(date1.ToString(customFormat));
   }
+
+  public static void PlayCoins () {
+      decimal value = 1603.42m;
+      Console.WriteLine(value.ToString("C3", new CultureInfo("pt-BR")));
+  }
+
+  public static void Conversion()
+  {        
+    long number = 85990526057;
+    string fmt = "(00) 00000-0000";
+    Console.WriteLine(number.ToString(fmt));
+  } 
+
+
+
 }
 
 
