@@ -1,0 +1,15 @@
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.csproj.AssemblyReference.cache
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.AssemblyInfoInputs.cache
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.AssemblyInfo.cs
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.csproj.CoreCompileInputs.cache
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/bin/Debug/net6.0/hello
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/bin/Debug/net6.0/hello.deps.json
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/bin/Debug/net6.0/hello.runtimeconfig.json
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/bin/Debug/net6.0/hello.dll
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/bin/Debug/net6.0/hello.pdb
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.dll
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/refint/hello.dll
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.pdb
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/hello.genruntimeconfig.cache
+/home/ubuntu/csharp-acc-training/test--console-tests/hello/obj/Debug/net6.0/ref/hello.dll
