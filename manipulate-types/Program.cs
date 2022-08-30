@@ -10,7 +10,7 @@ string[] e = emails.Split(";");
 
 for (int i = 0; i < e.Length; i++) 
 {
-  Console.WriteLine(e[i]);
+  // Console.WriteLine(e[i]);
 }
 
 List<string> languages = new List<string> 
@@ -26,8 +26,27 @@ bool languageExists = languages.Contains("java");
 IEnumerable<int> listNumbers = Enumerable.Range(1, 10);
 
 string numbersText = string.Join(',', listNumbers);
-Console.Write(numbersText);
+// Console.Write(numbersText);
 
 string text = "Eu aprendi a lidar com as propriedades e funções da classe String na Trybe!";
 int index = text.IndexOf("p", 20);
-Console.WriteLine(index);  
+// Console.WriteLine(index);  
+
+public class SelectionProcessValidation
+{
+
+    public static void Main(string[] args)
+    {
+      var res = ValidateName("Maria;João;Fernanda;Felipe;Maurício;Mayara", "Maria");
+        Console.Write(res);
+    }
+    public static bool ValidateName(string selectedPeople, string name) 
+    {
+        if(name == null || name == "") 
+            throw new ArgumentException("O campo nome está vazio");
+        string[] selectedPeopleList = selectedPeople.Split(';');
+        bool WasApproved = selectedPeopleList.Contains(name);
+        Console.Write(WasApproved);
+        return WasApproved;
+    }
+}
