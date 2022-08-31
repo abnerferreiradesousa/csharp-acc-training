@@ -1,0 +1,15 @@
+/home/ubuntu/csharp-acc-training/linq-train/bin/Debug/net6.0/linq-train
+/home/ubuntu/csharp-acc-training/linq-train/bin/Debug/net6.0/linq-train.deps.json
+/home/ubuntu/csharp-acc-training/linq-train/bin/Debug/net6.0/linq-train.runtimeconfig.json
+/home/ubuntu/csharp-acc-training/linq-train/bin/Debug/net6.0/linq-train.dll
+/home/ubuntu/csharp-acc-training/linq-train/bin/Debug/net6.0/linq-train.pdb
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.csproj.AssemblyReference.cache
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.AssemblyInfoInputs.cache
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.AssemblyInfo.cs
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.csproj.CoreCompileInputs.cache
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.dll
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/refint/linq-train.dll
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.pdb
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/linq-train.genruntimeconfig.cache
+/home/ubuntu/csharp-acc-training/linq-train/obj/Debug/net6.0/ref/linq-train.dll

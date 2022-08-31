@@ -1,0 +1,15 @@
+/home/ubuntu/csharp-acc-training/collections/bin/Debug/net6.0/collections.deps.json
+/home/ubuntu/csharp-acc-training/collections/bin/Debug/net6.0/collections.dll
+/home/ubuntu/csharp-acc-training/collections/bin/Debug/net6.0/collections.pdb
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.csproj.AssemblyReference.cache
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.AssemblyInfoInputs.cache
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.AssemblyInfo.cs
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.csproj.CoreCompileInputs.cache
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.dll
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/refint/collections.dll
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.pdb
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/ref/collections.dll
+/home/ubuntu/csharp-acc-training/collections/bin/Debug/net6.0/collections
+/home/ubuntu/csharp-acc-training/collections/bin/Debug/net6.0/collections.runtimeconfig.json
+/home/ubuntu/csharp-acc-training/collections/obj/Debug/net6.0/collections.genruntimeconfig.cache
