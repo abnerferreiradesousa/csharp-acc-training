@@ -1,0 +1,15 @@
+/home/abner/csharp-acc-training/play/bin/Debug/net6.0/play
+/home/abner/csharp-acc-training/play/bin/Debug/net6.0/play.deps.json
+/home/abner/csharp-acc-training/play/bin/Debug/net6.0/play.runtimeconfig.json
+/home/abner/csharp-acc-training/play/bin/Debug/net6.0/play.dll
+/home/abner/csharp-acc-training/play/bin/Debug/net6.0/play.pdb
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.csproj.AssemblyReference.cache
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.GeneratedMSBuildEditorConfig.editorconfig
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.AssemblyInfoInputs.cache
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.AssemblyInfo.cs
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.csproj.CoreCompileInputs.cache
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.dll
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/refint/play.dll
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.pdb
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/play.genruntimeconfig.cache
+/home/abner/csharp-acc-training/play/obj/Debug/net6.0/ref/play.dll
