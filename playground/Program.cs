@@ -1,14 +1,28 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Globalization;
+
 public class Playground {
   public static void Main () 
   {
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+
     long someLongNumber = 346;
     int intNumber = Convert.ToInt32(someLongNumber);
 
     // int intNumber = (int) someLongNumber;
 
-    Console.WriteLine("Teste de hoje " + intNumber);
+    // Console.WriteLine("Teste de hoje " + intNumber);
+    decimal num = 132.34M;
+    // Formando valor numérico para uma variável.
+		// Console.WriteLine($"{num:C}");
+		// Console.WriteLine(num.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")));
+		// Console.WriteLine(num.ToString("C"));
+
+    double porc = .3456;
+    int n = 556677;
+		Console.WriteLine(porc.ToString("P"));
+		Console.WriteLine(n.ToString("##/##/##"));
+
 
   }
 
