@@ -1,4 +1,45 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using pground;
+
+
+
+// =================================== Desconstrutor ======================================
+Person p1 = new(name: "Abner", age: 22);
+
+(int age, string name) = p1;
+
+Console.WriteLine($"{age} - {name}");
+
+
+// =================================== Tupla ======================================
+
+(int Id, string Name, string SecondName) tupla = (1, "Abner", "Sousa");
+
+// Outras formas de declarar uma Tupla...
+(int Id, string Name, string SecondName) = (1, "Abner", "Sousa");
+
+ValueTuple<int, string> tuple = (1, "Abner");
+var outherTuple = (1, "Abner");
+
+Console.WriteLine($"Value: {Id}");
+Console.WriteLine($"Value: {Name}");
+Console.WriteLine($"Value: {SecondName}");
+
+var (sucesso, linhasDoArquivo, _) = ReadFile.LerArquivo("FileRead/user.txt");
+
+if(sucesso) 
+{
+    // Console.WriteLine($"Quantidade de linhas: {quantLines}");
+    foreach (string item in linhasDoArquivo)
+    {
+        Console.WriteLine(item);
+    }
+}
+
+
+
+
+
 
 // =================================== Dictionary ======================================
 
@@ -78,25 +119,25 @@ foreach (string item in fila)
 
 // ================================= Lendo um arquivo ====================================
 
-try
-{
-    string[] text = File.ReadAllLines("FileRead/user.txt");
+    try
+    {
+        string[] text = File.ReadAllLines("FileRead/user.txt");
 
-    foreach (string item in text)
-    {   
-        Console.WriteLine(item);
+        foreach (string item in text)
+        {   
+            Console.WriteLine(item);
+        }
     }
-}
-catch (FileNotFoundException ex)
-{
-    Console.WriteLine($"Erro: {ex}");
-}
-catch (Exception ex)
-{
-    Console.WriteLine($"Erro: {ex}");
-}
-finally
-{
-    //Executa mesmo quando lançada uma exceção ou não...
-    Console.WriteLine("Envia um email com o resultado da avaliação.");
-}
+    catch (FileNotFoundException ex)
+    {
+        Console.WriteLine($"Erro: {ex}");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Erro: {ex}");
+    }
+    finally
+    {
+        //Executa mesmo quando lançada uma exceção ou não...
+        Console.WriteLine("Envia um email com o resultado da avaliação.");
+    }
